@@ -1,0 +1,28 @@
+.tnpb-actions {
+    text-align: center !important;
+    padding: 0.5rem 1rem !important;
+}
+
+.tnpc-row-edit-block:hover img {
+    transform: scale(0.8);
+}
+
+.tnpc-row-clone:hover img {
+    transform: scale(0.8);
+}
+
+.tnpc-row-delete:hover img {
+    filter: brightness(100);
+    transform: scale(0.8);
+}
+
+/* ----- Custom styles ----- */
+.mbtnp-section-title {
+	clear: both;
+	margin: 0;
+	font-size: 15px;
+	font-weight: 500 !important;
+    padding-top: 17px;
+	padding-bottom: 5px;
+	color: #666 !important;
+}
